@@ -4,7 +4,7 @@
   "private": true,
   "proxy": "https://cors.io/",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-places-autocomplete": "^7.1.2",
